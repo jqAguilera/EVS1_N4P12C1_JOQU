@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'joqu_App1',
+    'joqu_App2',
+
     
 ]
 
