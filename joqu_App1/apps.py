@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class FirstappConfig(AppConfig):
+class JoquApp1Config(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'firstApp'
+    name = 'joqu_App1'
