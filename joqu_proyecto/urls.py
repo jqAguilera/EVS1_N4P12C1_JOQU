@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from secondApp import views
+from joqu_App2 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
